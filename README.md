@@ -39,11 +39,11 @@ Here are some of my highlighted works — replace with your own:
 
 ### 📊 **Project 2: CRM Dashboard (Next.js + Ant Design)**
 - Interactive tables, charts, sidebar, role management  
-- 🔗 Live: _add link_
+- 🔗 Live: crm-dashboard-bice.vercel.app
 
 ### 🎧 **Project 3: Music Copyright Detection Web App**
 - MERN + React UI  
-- 🔗 Live: crm-dashboard-bice.vercel.app
+- 🔗 Live: add link
 
 Add as many projects as you want.
 
