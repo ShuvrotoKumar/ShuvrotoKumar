@@ -1,127 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Stars Animation</title>
+<!-- Gradient Waves Background Animation -->
+<svg width="100%" height="200" viewBox="0 0 1440 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f46e5">
+        <animate attributeName="stop-color" values="#4f46e5;#06b6d4;#4f46e5" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#4f46e5;#06b6d4" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
 
-<style>
-  body {
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background: radial-gradient(ellipse at bottom, #0d1d31 0%, #0c0d13 100%);
-    overflow: hidden;
-  }
+  <!-- Background rectangle -->
+  <rect width="1440" height="200" fill="url(#grad)"/>
 
-  .stars {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 120%;
-    transform: rotate(-45deg);
-  }
+  <!-- Animated wave paths -->
+  <path fill="#ffffff" fill-opacity="0.2">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+      M0,80 C360,180 1080,0 1440,80 L1440,200 L0,200 Z;
+      M0,60 C360,0 1080,200 1440,60 L1440,200 L0,200 Z;
+      M0,80 C360,180 1080,0 1440,80 L1440,200 L0,200 Z
+      "
+    />
+  </path>
 
-  .star {
-    --star-color: #4fc3f7;
-    --star-tail-length: 6em;
-    --star-tail-height: 2px;
-    --star-width: calc(var(--star-tail-length) / 6);
+  <path fill="#ffffff" fill-opacity="0.15">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+      M0,100 C360,0 1080,200 1440,100 L1440,200 L0,200 Z;
+      M0,80 C360,180 1080,0 1440,80 L1440,200 L0,200 Z;
+      M0,100 C360,0 1080,200 1440,100 L1440,200 L0,200 Z
+      "
+    />
+  </path>
+</svg>
 
-    position: absolute;
-    width: var(--star-tail-length);
-    height: var(--star-tail-height);
-    background: linear-gradient(45deg, currentColor, transparent);
-    color: var(--star-color);
-    border-radius: 50%;
-    filter: drop-shadow(0 0 6px currentColor);
-
-    animation: fall linear infinite, tail-fade ease-out infinite;
-    transform: translate3d(100vw, 0, 0);
-  }
-
-  .star::before,
-  .star::after {
-    content: "";
-    position: absolute;
-    left: calc(var(--star-width) / -2);
-    width: var(--star-width);
-    height: 100%;
-    border-radius: inherit;
-    background: linear-gradient(45deg, transparent, currentColor, transparent);
-    animation: blink 2s linear infinite;
-  }
-
-  .star::before { transform: rotate(45deg); }
-  .star::after { transform: rotate(-45deg); }
-
-  @keyframes fall {
-    to {
-      transform: translate3d(-30em, 0, 0);
-    }
-  }
-
-  @keyframes tail-fade {
-    0%, 50% {
-      width: var(--star-tail-length);
-      opacity: 1;
-    }
-    70%, 80% {
-      width: 0;
-      opacity: 0.4;
-    }
-    100% {
-      width: 0;
-      opacity: 0;
-    }
-  }
-
-  @keyframes blink {
-    50% {
-      opacity: 0.6;
-    }
-  }
-
-  /* Random star positions + timings */
-</style>
-
-<script>
-  // Generate stars dynamically (same SCSS logic but in JS)
-  document.addEventListener("DOMContentLoaded", () => {
-    const starContainer = document.querySelector(".stars");
-
-    const starCount = 50;
-
-    for (let i = 0; i < starCount; i++) {
-      const star = document.createElement("div");
-      star.className = "star";
-
-      const tailLength = (Math.random() * (7.5 - 5) + 5).toFixed(2) + "em";
-      const topOffset = Math.random() * 100 + "vh";
-      const fallDuration = (Math.random() * (12 - 6) + 6).toFixed(2) + "s";
-      const fallDelay = (Math.random() * 10).toFixed(2) + "s";
-
-      star.style.setProperty("--star-tail-length", tailLength);
-      star.style.setProperty("--top-offset", topOffset);
-      star.style.setProperty("top", topOffset);
-      star.style.animationDuration = `${fallDuration}, ${fallDuration}`;
-      star.style.animationDelay = `${fallDelay}, ${fallDelay}`;
-
-      starContainer.appendChild(star);
-    }
-  });
-</script>
-
-</head>
-
-<body>
-  <div class="stars"></div>
-</body>
-
-</html>
 
 <!-- HEADER ANIMATION -->
 <p align="center">
