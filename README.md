@@ -30,12 +30,12 @@
 
 <!-- PROJECTS -->
 ## 🔥 Featured Projects
-Here are some of my highlighted works — replace with your own:
+Here are some of my highlighted works:
 
 ### 🚀 **Project 1: Next.js Modern Landing Page**
 - ⚙️ Tech: Next.js, Tailwind CSS
-- 🔗 Live: _add link_
-- 📁 Repo: _add link_
+- 🔗 Live: furniture-landing-ppz8.vercel.app
+
 
 ### 📊 **Project 2: CRM Dashboard (Next.js + Ant Design)**
 - Interactive tables, charts, sidebar, role management  
