@@ -1,4 +1,8 @@
-<!-- HEADER ANIMATION -->
+<div class="background-animation">
+        <!-- Content of your page goes here -->
+        <h1>Welcome to my programming portfolio!</h1>
+        <p>This is some example content over the animated background.</p>
+    </div><!-- HEADER ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=4B9CE2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shuvroto+Kumar+👋;Frontend+Developer+(React+%26+Next.js);I+Love+Creating+Smooth+%26+Modern+Web+Experiences" />
 </p>
