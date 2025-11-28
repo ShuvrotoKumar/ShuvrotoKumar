@@ -70,7 +70,7 @@ Replace these with your real social links:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/)
 [![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sdks6409@gmail.com)
 
 ---
 
