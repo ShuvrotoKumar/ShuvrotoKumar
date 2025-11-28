@@ -43,7 +43,7 @@ Here are some of my highlighted works — replace with your own:
 
 ### 🎧 **Project 3: Music Copyright Detection Web App**
 - MERN + React UI  
-- 🔗 Live: _add link_
+- 🔗 Live: crm-dashboard-bice.vercel.app
 
 Add as many projects as you want.
 
