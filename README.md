@@ -63,7 +63,7 @@
 
 <!-- PORTFOLIO -->
 ## 🌐 Portfolio  
-🔗 **Live Portfolio:** shuvroto-portfolio-a6sq.vercel.app
+🔗 Live Portfolio: shuvrotokumar.vercel.app/
 
 
 ---
