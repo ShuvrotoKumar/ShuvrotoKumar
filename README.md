@@ -89,12 +89,22 @@ Add as many projects as you want.
 
 ---
 
-<!-- STATS -->
+
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShuvrotoKumar&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuvrotoKumar&theme=tokyonight" height="160" />
+  <!-- GitHub overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvrotokumar&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+
+  <!-- GitHub streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvrotokumar&theme=tokyonight" height="160" />
 </p>
+
+<p align="center">
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvrotokumar&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
