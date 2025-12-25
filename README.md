@@ -92,8 +92,6 @@ Add as many projects as you want.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <!-- GitHub overall stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=shuvrotokumar&show_icons=true&theme=tokyonight&count_private=true" height="160" />
