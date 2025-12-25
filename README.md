@@ -36,7 +36,6 @@
   </path>
 </svg>
 
-
 <!-- HEADER ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=4B9CE2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shuvroto+Kumar+👋;Frontend+Developer+(React+%26+Next.js);I+Love+Creating+Smooth+%26+Modern+Web+Experiences" />
@@ -46,10 +45,10 @@
 
 <!-- ABOUT -->
 ## 👨‍💻 About Me
-- 🚀 Frontend Developer specializing in **React**, **Next.js**, **Tailwind**, and **Ant Design**  
-- 🎨 Passionate about clean UI, animations, and smooth user experience  
-- 🔍 Focused on writing optimized & maintainable code  
-- 📚 Always learning & exploring new web technologies  
+- 🚀 **Frontend Developer** specializing in **React**, **Next.js**, **Tailwind**, and **Ant Design**
+- 🎨 Passionate about clean UI, animations, and providing smooth user experiences
+- 🔍 Focused on writing optimized, maintainable, and scalable code
+- 📚 Constantly learning and exploring new web technologies
 
 ---
 
@@ -63,8 +62,7 @@
 
 <!-- PORTFOLIO -->
 ## 🌐 Portfolio  
-🔗 Live Portfolio: shuvrotokumar.vercel.app/
-
+🔗 [Live Portfolio](https://shuvrotokumar.vercel.app/)
 
 ---
 
@@ -73,31 +71,24 @@
 Here are some of my highlighted works:
 
 ### 🚀 **Project 1: Next.js Modern Landing Page**
-- ⚙️ Tech: Next.js, Tailwind CSS
-- 🔗 Live: furniture-landing-ppz8.vercel.app
-
+- ⚙️ **Tech**: Next.js, Tailwind CSS
+- 🔗 [Live](https://furniture-landing-ppz8.vercel.app/)
 
 ### 📊 **Project 2: CRM Dashboard (Next.js + Ant Design)**
-- Interactive tables, charts, sidebar, role management  
-- 🔗 Live: crm-dashboard-bice.vercel.app
+- Features interactive tables, charts, sidebar, and role management
+- ⚙️ **Tech**: Next.js, Ant Design
+- 🔗 [Live](https://crm-dashboard-bice.vercel.app/)
 
 ### 🎧 **Project 3: Music Copyright Detection Web App**
-- MERN + React UI  
-- 🔗 Live: add link
-
-Add as many projects as you want.
+- **Tech**: MERN stack (MongoDB, Express, React, Node.js)
+- 🔗 [Live](#) *(Add link once available)*
 
 ---
-
 
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-![Shuvroto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuvrotoKumar&show_icons=true&theme=dark&count_private=true&hide_rank=false&hide=prs)
-
-
-
-
+![Shuvroto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuvrotoKumar&show_icons=true&theme=dark&count_private=true&hide_rank=true&hide=prs)
 
 ---
 
@@ -108,11 +99,11 @@ Add as many projects as you want.
 ---
 
 <!-- SOCIALS -->
-## 📬 Connect With Me  
-Replace these with your real social links:
+## 📬 Connect With Me
+You can reach out to me through the following platforms:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/)
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shuvrotokumar)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/shuvroto.kumar)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sdks6409@gmail.com)
 
 ---
