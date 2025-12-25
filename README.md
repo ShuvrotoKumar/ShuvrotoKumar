@@ -93,18 +93,7 @@ Add as many projects as you want.
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-<div align="center">
-
-  <!-- Total Contributions + Current Streak + Longest Streak -->
-  ![Shuvroto's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true&hide_rank=false&hide=prs)
-
-  <!-- Top Languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
-
-  <!-- GitHub Streak -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)
-
-</div>
+![Shuvroto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuvrotoKumar&show_icons=true&theme=dark&count_private=true&hide_rank=false&hide=prs)
 
 
 
