@@ -1,114 +1,203 @@
-<!-- Gradient Waves Background Animation -->
-<svg width="100%" height="200" viewBox="0 0 1440 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#4f46e5">
-        <animate attributeName="stop-color" values="#4f46e5;#06b6d4;#4f46e5" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#06b6d4">
-        <animate attributeName="stop-color" values="#06b6d4;#4f46e5;#06b6d4" dur="6s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
+<!-- Modern Hero Section with Animated Background -->
+<div align="center">
+  <!-- Animated Gradient Background -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow-v2.png" alt="animated lines" style="width: 100%;">
+  
+  <!-- Profile Picture -->
+  <img src="https://avatars.githubusercontent.com/ShuvrotoKumar" alt="Profile" width="150" style="border-radius: 50%; border: 4px solid #4f46e5; box-shadow: 0 0 20px rgba(79, 70, 229, 0.5);">
+  
+  <!-- Animated Typing Header -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=4000&pause=1000&color=4f46e5&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B;I'm+Shuvroto+Kumar;Frontend+Developer+%26+UI%2FUX+Enthusiast;Crafting+Beautiful+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
+  </h1>
+  
+  <!-- Subtitle -->
+  <p style="font-size: 18px; color: #6b7280; margin-bottom: 30px;">
+    Transforming ideas into elegant, performant web applications with modern technologies
+  </p>
+  
+  <!-- CTA Buttons -->
+  <div style="display: flex; gap: 15px; justify-content: center; margin-bottom: 40px;">
+    <a href="https://shuvrotokumar.vercel.app/" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.3s ease;">
+      🌐 View Portfolio
+    </a>
+    <a href="mailto:sdks6409@gmail.com" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.3s ease;">
+      📧 Get In Touch
+    </a>
+  </div>
+</div>
 
-  <!-- Background rectangle -->
-  <rect width="1440" height="200" fill="url(#grad)"/>
+---
 
-  <!-- Animated wave paths -->
-  <path fill="#ffffff" fill-opacity="0.2">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="
-      M0,80 C360,180 1080,0 1440,80 L1440,200 L0,200 Z;
-      M0,60 C360,0 1080,200 1440,60 L1440,200 L0,200 Z;
-      M0,80 C360,180 1080,0 1440,80 L1440,200 L0,200 Z
-      "
-    />
-  </path>
+## 🌟 About Me
 
-  <path fill="#ffffff" fill-opacity="0.15">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite"
-      values="
-      M0,100 C360,0 1080,200 1440,100 L1440,200 L0,200 Z;
-      M0,80 C360,180 1080,0 1440,80 L1440,200 L0,200 Z;
-      M0,100 C360,0 1080,200 1440,100 L1440,200 L0,200 Z
-      "
-    />
-  </path>
-</svg>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: center;">
+  <div>
+    <p>🎯 <strong>Frontend Specialist</strong> with expertise in React ecosystem and modern JavaScript frameworks</p>
+    <p>� <strong>Design-Driven Developer</strong> who bridges the gap between beautiful UI and clean code</p>
+    <p>⚡ <strong>Performance Advocate</strong> focused on creating lightning-fast, accessible web experiences</p>
+    <p>� <strong>Continuous Learner</strong> always exploring cutting-edge web technologies and best practices</p>
+  </div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" width="250">
+  </div>
+</div>
 
-<!-- HEADER ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=4B9CE2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shuvroto+Kumar+👋;Frontend+Developer+(React+%26+Next.js);I+Love+Creating+Smooth+%26+Modern+Web+Experiences" />
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript" alt="Frontend" />
 </p>
 
----
-
-<!-- ABOUT -->
-## 👨‍💻 About Me
-- 🚀 **Frontend Developer** specializing in **React**, **Next.js**, **Tailwind**, and **Ant Design**
-- 🎨 Passionate about clean UI, animations, and providing smooth user experiences
-- 🔍 Focused on writing optimized, maintainable, and scalable code
-- 📚 Constantly learning and exploring new web technologies
-
----
-
-<!-- TECH STACK -->
-## ⚡ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css,git,github,vscode" />
+### 🎨 UI/UX & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,css,sass,materialui,antdesign,bootstrap" alt="UI/UX" />
 </p>
 
----
-
-<!-- PORTFOLIO -->
-## 🌐 Portfolio  
-🔗 [Live Portfolio](https://shuvrotokumar.vercel.app/)
-
----
-
-<!-- PROJECTS -->
-## 🔥 Featured Projects
-Here are some of my highlighted works:
-
-### 🚀 **Project 1: Next.js Modern Landing Page**
-- ⚙️ **Tech**: Next.js, Tailwind CSS
-- 🔗 [Live](https://furniture-landing-ppz8.vercel.app/)
-
-### 📊 **Project 2: CRM Dashboard (Next.js + Ant Design)**
-- Features interactive tables, charts, sidebar, and role management
-- ⚙️ **Tech**: Next.js, Ant Design
-- 🔗 [Live](https://crm-dashboard-bice.vercel.app/)
-
-### 🎧 **Project 3: Music Copyright Detection Web App**
-- **Tech**: MERN stack (MongoDB, Express, React, Node.js)
-- 🔗 [Live](#) *(Add link once available)*
-
----
-
-## 📊 GitHub Stats
-
-<!-- GitHub Stats -->
-![Shuvroto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuvrotoKumar&show_icons=true&theme=dark&count_private=true&hide_rank=true&hide=prs)
-
-
----
-
-<!-- BADGES -->
-## 🧩 Profile Insights  
-![Profile Views](https://komarev.com/ghpvc/?username=ShuvrotoKumar&style=flat-square&color=blue)
-
----
-
-<!-- SOCIALS -->
-## 📬 Connect With Me
-You can reach out to me through the following platforms:
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shuvrotokumar)
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/shuvroto.kumar)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sdks6409@gmail.com)
-
----
-
-<p align="center">
-  Thanks for visiting my GitHub profile! 🌟  
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,webpack" alt="Tools" />
 </p>
+
+### 🚀 Deployment & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,docker,aws,nginx" alt="Deployment" />
+</p>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+### � **Next.js Modern Landing Page**
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; margin-bottom: 20px;">
+  <p style="color: white; margin: 0;">
+    <strong>🏠 Modern Furniture Landing Page</strong><br>
+    Built with Next.js 14 and Tailwind CSS for optimal performance
+  </p>
+  <a href="https://furniture-landing-ppz8.vercel.app/" style="color: white; text-decoration: underline;">
+    🔗 Live Demo
+  </a>
+</div>
+
+### 📊 **CRM Dashboard with Ant Design**
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 12px; margin-bottom: 20px;">
+  <p style="color: white; margin: 0;">
+    <strong>📈 Enterprise CRM Dashboard</strong><br>
+    Interactive tables, charts, user management, and real-time analytics
+  </p>
+  <a href="https://crm-dashboard-bice.vercel.app/" style="color: white; text-decoration: underline;">
+    🔗 Live Demo
+  </a>
+</div>
+
+### � **Music Copyright Detection Platform**
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 12px; margin-bottom: 20px;">
+  <p style="color: white; margin: 0;">
+    <strong>🎧 MERN Stack Application</strong><br>
+    Advanced audio analysis and copyright detection system
+  </p>
+  <a href="#" style="color: white; text-decoration: underline;">
+    🔗 Coming Soon
+  </a>
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+  
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=ShuvrotoKumar&show_icons=true&theme=dark&count_private=true&hide_rank=true&hide=prs&include_all_commits=true&bg_color=0D1117&title_color=4f46e5&icon_color=4f46e5&text_color=C9D1D9" alt="GitHub Stats" style="margin-bottom: 20px;"/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuvrotoKumar&theme=dark&background=0D1117&stroke=4f46e5&ring=4f46e5&fire=4f46e5&currStreakLabel=C9D1D9" alt="GitHub Streak" style="margin-bottom: 20px;"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvrotoKumar&layout=compact&theme=dark&bg_color=0D1117&title_color=4f46e5&text_color=C9D1D9" alt="Top Languages" style="margin-bottom: 20px;"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShuvrotoKumar&theme=react-dark&bg_color=0D1117&color=4f46e5&line=4f46e5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" style="margin-bottom: 20px;"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Badges
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShuvrotoKumar&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="margin-bottom: 20px;"/>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=ShuvrotoKumar&style=flat-square&color=4f46e5&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+<p style="font-size: 18px; margin-bottom: 30px;">
+  I'm always open to discussing new opportunities, interesting projects, or just having a chat about web development!
+</p>
+
+<!-- Professional Social Links -->
+<div style="display: flex; gap: 20px; justify-content: center; margin-bottom: 30px;">
+  <a href="https://linkedin.com/in/shuvrotokumar" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://github.com/ShuvrotoKumar" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://twitter.com/shuvrotokumar" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" style="width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="mailto:sdks6409@gmail.com" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://facebook.com/shuvroto.kumar" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" style="width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</div>
+
+<!-- Contact Buttons -->
+<div style="display: flex; gap: 15px; justify-content: center; margin-bottom: 40px;">
+  <a href="mailto:sdks6409@gmail.com" style="background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%); color: white; padding: 15px 30px; border-radius: 50px; text-decoration: none; font-weight: 600; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(79, 70, 229, 0.3);">
+    📧 Email Me
+  </a>
+  <a href="https://linkedin.com/in/shuvrotokumar" style="background: linear-gradient(135deg, #0077b5 0%, #00a0dc 100%); color: white; padding: 15px 30px; border-radius: 50px; text-decoration: none; font-weight: 600; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0, 119, 181, 0.3);">
+    💼 LinkedIn
+  </a>
+  <a href="https://shuvrotokumar.vercel.app/" style="background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%); color: white; padding: 15px 30px; border-radius: 50px; text-decoration: none; font-weight: 600; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(6, 182, 212, 0.3);">
+    🌐 Portfolio
+  </a>
+</div>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muhammadshoaibshaikh/muhammadshoaibshaikh/main/assets/bottom_header.svg" alt="Footer" style="width: 100%;">
+  
+  <p style="font-size: 16px; color: #6b7280; margin-top: 20px;">
+    <strong>Thanks for stopping by! 🌟</strong><br>
+    <em>Have a wonderful day and happy coding! 💻✨</em>
+  </p>
+  
+  <p style="font-size: 14px; color: #9ca3af; margin-top: 10px;">
+    Made with ❤️ and lots of ☕
+  </p>
+</div>
