@@ -1,30 +1,18 @@
-<!-- Modern Hero Section with Animated Background -->
+<!-- Minimal Hero Section -->
 <div align="center">
-  <!-- Animated Gradient Background -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow-v2.png" alt="animated lines" style="width: 100%;">
   
   <!-- Profile Picture -->
-  <img src="https://avatars.githubusercontent.com/ShuvrotoKumar" alt="Profile" width="150" style="border-radius: 50%; border: 4px solid #4f46e5; box-shadow: 0 0 20px rgba(79, 70, 229, 0.5);">
+  <img src="https://avatars.githubusercontent.com/ShuvrotoKumar" alt="Profile" width="120" style="border-radius: 50%; border: 3px solid #4f46e5; margin-bottom: 20px;">
   
-  <!-- Animated Typing Header -->
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=4000&pause=1000&color=4f46e5&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B;I'm+Shuvroto+Kumar;Frontend+Developer+%26+UI%2FUX+Enthusiast;Crafting+Beautiful+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
-  </h1>
+  <!-- Name and Role -->
+  <h1 style="margin: 0; font-size: 2.5em; color: #1a1a1a;">Shuvroto Kumar</h1>
+  <p style="margin: 10px 0; font-size: 1.2em; color: #6b7280; font-weight: 500;">Frontend Developer</p>
   
-  <!-- Subtitle -->
-  <p style="font-size: 18px; color: #6b7280; margin-bottom: 30px;">
-    Transforming ideas into elegant, performant web applications with modern technologies
+  <!-- Aim Statement -->
+  <p style="margin: 20px 0; font-size: 1em; color: #4b5563; max-width: 600px; line-height: 1.6;">
+    Creating beautiful, performant web experiences that make a difference
   </p>
   
-  <!-- CTA Buttons -->
-  <div style="display: flex; gap: 15px; justify-content: center; margin-bottom: 40px;">
-    <a href="https://shuvrotokumar.vercel.app/" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.3s ease;">
-      🌐 View Portfolio
-    </a>
-    <a href="mailto:sdks6409@gmail.com" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.3s ease;">
-      📧 Get In Touch
-    </a>
-  </div>
 </div>
 
 ---
@@ -134,13 +122,81 @@
 
 ---
 
-## 🏆 Achievements & Badges
+## 📊 Development Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShuvrotoKumar&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="margin-bottom: 20px;"/>
   
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ShuvrotoKumar&style=flat-square&color=4f46e5&label=Profile+Views" alt="Profile Views"/>
+<!-- Animated Stats Chart -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);">
+  <h3 style="color: white; margin: 0 0 20px 0; font-size: 1.5em;">📈 My Development Journey</h3>
+  
+  <!-- Animated Progress Bars -->
+  <div style="text-align: left; max-width: 500px; margin: 0 auto;">
+    <div style="margin-bottom: 15px;">
+      <div style="color: white; font-weight: 600; margin-bottom: 5px;">React/Next.js</div>
+      <div style="background: rgba(255,255,255,0.3); border-radius: 10px; overflow: hidden; height: 20px;">
+        <div style="background: linear-gradient(90deg, #4ade80 0%, #22c55e 100%); width: 90%; height: 100%; border-radius: 10px; animation: slideIn 2s ease-out;"></div>
+      </div>
+    </div>
+    
+    <div style="margin-bottom: 15px;">
+      <div style="color: white; font-weight: 600; margin-bottom: 5px;">TypeScript</div>
+      <div style="background: rgba(255,255,255,0.3); border-radius: 10px; overflow: hidden; height: 20px;">
+        <div style="background: linear-gradient(90deg, #60a5fa 0%, #3b82f6 100%); width: 85%; height: 100%; border-radius: 10px; animation: slideIn 2s ease-out 0.2s both;"></div>
+      </div>
+    </div>
+    
+    <div style="margin-bottom: 15px;">
+      <div style="color: white; font-weight: 600; margin-bottom: 5px;">Tailwind CSS</div>
+      <div style="background: rgba(255,255,255,0.3); border-radius: 10px; overflow: hidden; height: 20px;">
+        <div style="background: linear-gradient(90deg, #c084fc 0%, #a855f7 100%); width: 95%; height: 100%; border-radius: 10px; animation: slideIn 2s ease-out 0.4s both;"></div>
+      </div>
+    </div>
+    
+    <div style="margin-bottom: 15px;">
+      <div style="color: white; font-weight: 600; margin-bottom: 5px;">Node.js</div>
+      <div style="background: rgba(255,255,255,0.3); border-radius: 10px; overflow: hidden; height: 20px;">
+        <div style="background: linear-gradient(90deg, #fbbf24 0%, #f59e0b 100%); width: 75%; height: 100%; border-radius: 10px; animation: slideIn 2s ease-out 0.6s both;"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Animated Counter Stats -->
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-bottom: 20px;">
+  <div style="background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%); padding: 20px; border-radius: 12px; text-align: center; color: white; animation: fadeInUp 1s ease-out;">
+    <div style="font-size: 2em; font-weight: bold; margin-bottom: 5px;">50+</div>
+    <div style="font-size: 0.9em;">Projects Completed</div>
+  </div>
+  <div style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); padding: 20px; border-radius: 12px; text-align: center; color: white; animation: fadeInUp 1s ease-out 0.2s both;">
+    <div style="font-size: 2em; font-weight: bold; margin-bottom: 5px;">1000+</div>
+    <div style="font-size: 0.9em;">Code Commits</div>
+  </div>
+  <div style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); padding: 20px; border-radius: 12px; text-align: center; color: white; animation: fadeInUp 1s ease-out 0.4s both;">
+    <div style="font-size: 2em; font-weight: bold; margin-bottom: 5px;">2+</div>
+    <div style="font-size: 0.9em;">Years Experience</div>
+  </div>
+</div>
+
+<!-- CSS Animations -->
+<style>
+@keyframes slideIn {
+  from { width: 0; }
+  to { width: var(--width, 100%); }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>
+
 </div>
 
 ---
