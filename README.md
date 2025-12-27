@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome!&fontColor=6366f1&fontSize=40&font=Cormorant" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome!&fontColor=6366f1&fontSize=40&font=Cormorant&center=true&vCenter=true" />
 
 <!-- Minimal Hero Section -->
 <div align="center">
