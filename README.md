@@ -1,24 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome!&fontColor=6366f1&fontSize=40&font=Cormorant&center=true&vCenter=true" />
+<!-- Top Capsule -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome+to+my+Professional+Space&fontColor=6366f1&fontSize=42&font=Cormorant&center=true&vCenter=true"
+/>
 
-<!-- Minimal Hero Section -->
+<br/>
+
 <div align="center">
 
-  <!-- Animated Name -->
+  <!-- Name -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant&size=36&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=I+am+Shuvroto+Kumar" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Cormorant&size=38&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shuvroto+Kumar"
+    />
   </h1>
 
-  <!-- Animated Role -->
+  <!-- Divider -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=2&section=footer"
+    width="180"
+  />
+
+  <br/>
+
+  <!-- Role -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant&size=30&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Cormorant&size=30&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Frontend+Engineer;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+CSS"
+    />
   </p>
 
-  <!-- Animated Description -->
+  <!-- Short Bio -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant&size=26&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=800&lines=Creating+beautiful,+performant+web+experiences+that+make+a+difference" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Cormorant&size=24&duration=3500&pause=1500&color=9CA3AF&center=true&vCenter=true&width=900&lines=I+craft+modern%2C+scalable+and+pixel-perfect+web+interfaces;Focused+on+performance%2C+UX+and+clean+architecture"
+    />
+  </p>
+
+  <br/>
+
+  <!-- Tech Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+    <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15"/>
   </p>
 
 </div>
+
 
 
 ---
