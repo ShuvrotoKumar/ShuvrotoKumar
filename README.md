@@ -1,7 +1,12 @@
 <!-- Top Capsule -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome+to+my+Professional+Space&fontColor=6366f1&fontSize=42&font=Cormorant&center=true&vCenter=true"
-/>
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome+to+my+Professional+Space&fontColor=6366f1&fontSize=42&font=Cormorant&center=true&vCenter=true"
+  />
+</div>
+
+<br/>
+
 
 <br/>
 
