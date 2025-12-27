@@ -5,7 +5,7 @@
 
   <!-- Animated Name -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant&size=36&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Shuvroto+Kumar" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant&size=36&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=I+am+Shuvroto+Kumar" />
   </h1>
 
   <!-- Animated Role -->
@@ -15,7 +15,7 @@
 
   <!-- Animated Description -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=800&lines=Creating+beautiful,+performant+web+experiences+that+make+a+difference" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant&size=16&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=800&lines=Creating+beautiful,+performant+web+experiences+that+make+a+difference" />
   </p>
 
 </div>
