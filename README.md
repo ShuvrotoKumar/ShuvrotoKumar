@@ -109,7 +109,7 @@
 
 <div align="center">
   
-### � **Next.js Modern Landing Page**
+### 🎨 **Next.js Modern Landing Page**
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; margin-bottom: 20px;">
   <p style="color: white; margin: 0;">
     <strong>🏠 Modern Furniture Landing Page</strong><br>
@@ -131,7 +131,7 @@
   </a>
 </div>
 
-### � **Music Copyright Detection Platform**
+### 🛠️ **Music Copyright Detection Platform**
 <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 12px; margin-bottom: 20px;">
   <p style="color: white; margin: 0;">
     <strong>🎧 MERN Stack Application</strong><br>
