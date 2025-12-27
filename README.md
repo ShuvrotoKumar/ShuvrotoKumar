@@ -1,9 +1,10 @@
 <!-- Top Capsule -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome+to+My+Professional+Space&fontColor=6366f1&fontSize=42&font=Playfair_Display&center=true&vCenter=true"
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=42&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Welcome+to+My+Professional+Space"
   />
 </div>
+
 
 <br/>
 
