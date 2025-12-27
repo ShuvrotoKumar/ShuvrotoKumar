@@ -1,18 +1,48 @@
 <!-- Minimal Hero Section -->
 <div align="center">
-  
-  <!-- Profile Picture -->
-  <img src="https://avatars.githubusercontent.com/ShuvrotoKumar" alt="Profile" width="120" style="border-radius: 50%; border: 3px solid #4f46e5; margin-bottom: 20px;">
-  
-  <!-- Name and Role -->
-  <h1 style="margin: 0; font-size: 2.5em; color: #1a1a1a;">Shuvroto Kumar</h1>
-  <p style="margin: 10px 0; font-size: 1.2em; color: #6b7280; font-weight: 500;">Frontend Developer</p>
-  
-  <!-- Aim Statement -->
-  <p style="margin: 20px 0; font-size: 1em; color: #4b5563; max-width: 600px; line-height: 1.6;">
-    Creating beautiful, performant web experiences that make a difference
+
+  <!-- Animated Name Gradient -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?
+      font=Inter
+      &size=36
+      &duration=3500
+      &pause=1000
+      &color=6366F1
+      &center=true
+      &vCenter=true
+      &width=600
+      &lines=Shuvroto+Kumar" />
+  </h1>
+
+  <!-- Typing Role -->
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?
+      font=Inter
+      &size=20
+      &duration=3000
+      &pause=800
+      &color=10B981
+      &center=true
+      &vCenter=true
+      &width=600
+      &lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind" />
   </p>
-  
+
+  <!-- Typing Description -->
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?
+      font=Inter
+      &size=16
+      &duration=3500
+      &pause=1200
+      &color=9CA3AF
+      &center=true
+      &vCenter=true
+      &width=800
+      &lines=Creating+beautiful,+performant+web+experiences+that+make+a+difference" />
+  </p>
+
 </div>
 
 ---
