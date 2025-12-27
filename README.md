@@ -1,49 +1,25 @@
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome!&fontColor=6366f1&fontSize=24" />
+
 <!-- Minimal Hero Section -->
 <div align="center">
 
-  <!-- Animated Name Gradient -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?
-      font=Inter
-      &size=36
-      &duration=3500
-      &pause=1000
-      &color=6366F1
-      &center=true
-      &vCenter=true
-      &width=600
-      &lines=Shuvroto+Kumar" />
+  <!-- Animated Name -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=36&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Shuvroto+Kumar" />
   </h1>
 
-  <!-- Typing Role -->
+  <!-- Animated Role -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?
-      font=Inter
-      &size=20
-      &duration=3000
-      &pause=800
-      &color=10B981
-      &center=true
-      &vCenter=true
-      &width=600
-      &lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind" />
   </p>
 
-  <!-- Typing Description -->
+  <!-- Animated Description -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?
-      font=Inter
-      &size=16
-      &duration=3500
-      &pause=1200
-      &color=9CA3AF
-      &center=true
-      &vCenter=true
-      &width=800
-      &lines=Creating+beautiful,+performant+web+experiences+that+make+a+difference" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=800&lines=Creating+beautiful,+performant+web+experiences+that+make+a+difference" />
   </p>
 
 </div>
+
 
 ---
 
