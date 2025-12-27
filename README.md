@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome!&fontColor=6366f1&fontSize=24" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome!&fontColor=6366f1&fontSize=30" />
 
 <!-- Minimal Hero Section -->
 <div align="center">
 
   <!-- Animated Name -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=36&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Shuvroto+Kumar" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant&size=36&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Shuvroto+Kumar" />
   </h1>
 
   <!-- Animated Role -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant&size=20&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind" />
   </p>
 
   <!-- Animated Description -->
@@ -28,9 +28,9 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: center;">
   <div>
     <p>🎯 <strong>Frontend Specialist</strong> with expertise in React ecosystem and modern JavaScript frameworks</p>
-    <p>� <strong>Design-Driven Developer</strong> who bridges the gap between beautiful UI and clean code</p>
+    <p>🎨 <strong>Design-Driven Developer</strong> who bridges the gap between beautiful UI and clean code</p>
     <p>⚡ <strong>Performance Advocate</strong> focused on creating lightning-fast, accessible web experiences</p>
-    <p>� <strong>Continuous Learner</strong> always exploring cutting-edge web technologies and best practices</p>
+    <p>📚 <strong>Continuous Learner</strong> always exploring cutting-edge web technologies and best practices</p>
   </div>
   <div align="center">
     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" width="250">
@@ -111,16 +111,6 @@
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=ShuvrotoKumar&show_icons=true&theme=dark&count_private=true&hide_rank=true&hide=prs&include_all_commits=true&bg_color=0D1117&title_color=4f46e5&icon_color=4f46e5&text_color=C9D1D9" alt="GitHub Stats" style="margin-bottom: 20px;"/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuvrotoKumar&theme=dark&background=0D1117&stroke=4f46e5&ring=4f46e5&fire=4f46e5&currStreakLabel=C9D1D9" alt="GitHub Streak" style="margin-bottom: 20px;"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvrotoKumar&layout=compact&theme=dark&bg_color=0D1117&title_color=4f46e5&text_color=C9D1D9" alt="Top Languages" style="margin-bottom: 20px;"/>
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShuvrotoKumar&theme=react-dark&bg_color=0D1117&color=4f46e5&line=4f46e5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" style="margin-bottom: 20px;"/>
 
@@ -175,8 +165,6 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muhammadshoaibshaikh/muhammadshoaibshaikh/main/assets/bottom_header.svg" alt="Footer" style="width: 100%;">
-  
   <p style="font-size: 16px; color: #6b7280; margin-top: 20px;">
     <strong>Thanks for stopping by! 🌟</strong><br>
     <em>Have a wonderful day and happy coding! 💻✨</em>
