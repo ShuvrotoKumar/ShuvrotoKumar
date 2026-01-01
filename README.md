@@ -19,7 +19,7 @@
   <!-- Name -->
   <h1>
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Cormorant&size=38&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shuvroto+Kumar"
+      src="https://readme-typing-svg.demolab.com?font=Cormorant&size=38&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shuvroto+Kumar"
     />
   </h1>
 
