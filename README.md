@@ -34,7 +34,7 @@
   <!-- Role -->
   <p>
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Cormorant&size=30&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Frontend+Engineer;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+CSS"
+      src="https://readme-typing-svg.demolab.com?font=Cormorant&size=30&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Frontend+Engineer;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+CSS;Redux+%E2%80%A2+Postman+%E2%80%A2+Ant+Design"
     />
   </p>
 
